@@ -2,7 +2,7 @@
 
 This organization provides the design, development, and implementation of a brush quadcopter drone. 
 
-![Prototype 3.0](assets/prototype_3.0.jpg)
+![Prototype 3.0](../assets/prototype_3.0.jpg)
 
 * [Tutorial for building and assembling the drone](https://github.com/BrushQuadX/brushquadx-docs)
 * [Drone Firmware](https://github.com/BrushQuadX/brushquadx-rf24-rxdrone)
@@ -14,11 +14,11 @@ This organization provides the design, development, and implementation of a brus
 
 The following schematic diagram shows the wiring components and hardware for the drone.
 
-![Drone Schematic](assets/SCH_drone_schematic_v3.0_1-P1_2026-10-02.png)
+![Drone Schematic](../assets/SCH_drone_schematic_v3.0_1-P1_2026-10-02.png)
 
 The following schematic diagram shows the wiring components and hardware for the drone controller. 
 
-![Controller Schematic](assets/SCH_controller_schematic_v3.0_1-P1_2026-10-02.png)
+![Controller Schematic](../assets/SCH_controller_schematic_v3.0_1-P1_2026-10-02.png)
 
 # Key Learnings/Takeaways
 
@@ -39,13 +39,13 @@ The following schematic diagram shows the wiring components and hardware for the
 
 12. Test n-channel mosfet Integrity and ensure drain voltage approaches zero as gate voltage increases
 
-![Mosfet Testing](assets/mosfet-diagram.png)
+![Mosfet Testing](../assets/mosfet-diagram.png)
 
-![Mosfet Testing Probes](assets/20260429_225320.jpg)
+![Mosfet Testing Probes](../assets/20260429_225320.jpg)
 
 13. Test Motor terminals if voltage is received
 
-![Motor Terminal Voltage](assets/motor-voltage-input.png)
+![Motor Terminal Voltage](../assets/motor-voltage-input.png)
 
 ## Practical Considerations
 
