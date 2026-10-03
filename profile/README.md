@@ -2,6 +2,8 @@
 
 This organization provides the design, development, and implementation of a brush quadcopter drone. 
 
+[Home Page](https://www.johnmvsantos.com/html_projects/arduino_drone)
+
 ![Prototype 3.0](../assets/prototype_3.0.jpg)
 
 * [Tutorial for building and assembling the drone](https://github.com/BrushQuadX/brushquadx-docs)
