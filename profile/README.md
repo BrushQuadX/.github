@@ -12,6 +12,10 @@ This organization provides the design, development, and implementation of a brus
 * [Arm and Calibration Application WultiWii](https://github.com/BrushQuadX/brushquadx-multiwii)
 * [Camera FPV Interface](https://github.com/BrushQuadX/brushquadx-visionotg)
 
+🎬 **Watch the video demonstration**
+
+[![▶ Click to watch](https://img.youtube.com/vi/mpOZS6spFo8/0.jpg)](https://www.youtube.com/shorts/mpOZS6spFo8)
+
 # Schematics and Diagrams
 
 The following schematic diagram shows the wiring components and hardware for the drone.
